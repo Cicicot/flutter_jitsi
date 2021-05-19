@@ -147,7 +147,7 @@ class _MyAppState extends State<MyApp> {
                     onPressed: () {
                       _joinMeeting();
                     }, 
-                    child: Text( 'Crear sala', style: TextStyle(fontSize: 20) )
+                    child: Text( 'Crear sala', style: TextStyle(fontSize: 22) )
                   )
                 ),
                 SizedBox(
